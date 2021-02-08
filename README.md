@@ -1,2 +1,2 @@
-# react-starterv2
+# react-starter
 Created with CodeSandbox
